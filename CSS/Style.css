@@ -1,0 +1,44 @@
+.logo {
+  width: 50px;
+  border-radius: 50%; }
+
+.button {
+  background-color: azure; }
+
+body {
+  background-image: linear-gradient(180deg, #0093cf 0, #0092d7 6.25%, #008fdf 12.5%, #008de4 18.75%, #0089e8 25%, #0086ea 31.25%, #0081e9 37.5%, #2b7ce7 43.75%, #5877e3 50%, #7571dd 56.25%, #8b6bd6 62.5%, #9e64cc 68.75%, #ae5dc2 75%, #bb57b6 81.25%, #c651aa 87.5%, #cf4c9d 93.75%, #d6488f 100%); }
+
+footer {
+  background-color: #022e20; }
+
+footer {
+  background-color: #022e20;
+  color: white;
+  display: flex;
+  padding: 20px; }
+
+.servicios {
+  padding: 20px; }
+
+.img-nosotros {
+  width: 800px;
+  padding: 20px; }
+
+.container {
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 50px; }
+
+.nav-item a:hover {
+  color: cornsilk;
+  background-color: black;
+  border-radius: 15%; }
+
+.card-img-top {
+  width: 200px;
+  height: 200px; }
+
+.card-text {
+  flex-grow: 1; }
